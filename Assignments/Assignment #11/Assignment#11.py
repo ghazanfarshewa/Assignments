@@ -1,0 +1,44 @@
+# Assignment #11: 
+
+# Exercise 1: Simple Function
+# 1.  Create a function named greet_user that takes a user's name as a parameter and prints a personalized greeting message like "Hello, [name]!".
+greet_user = input("Please enter your name")
+print("Hello,")
+
+
+# Exercise 2: Area of a Rectangle
+# 1.  Create a function named calculate_rectangle_area that takes the width and height of a rectangle as parameters and returns its area.
+# 2.  Demonstrate the usage of this function by calculating the area of a rectangle with width=5 and height=8.
+
+# Exercise 3: Celsius to Fahrenheit Conversion
+# 1.  Create a function named celsius_to_fahrenheit that takes a temperature in Celsius as a parameter and returns its equivalent temperature in Fahrenheit using the formula: Fahrenheit = (Celsius * 9/5) + 32.
+# 2.  Demonstrate the usage of this function by converting a temperature of 25 degrees Celsius to Fahrenheit.
+
+# Exercise 4: Check Even or Odd
+# 1.  Create a function named is_even that takes an integer as a parameter and returns True if the number is even, otherwise False.
+# 2.  Demonstrate the usage of this function by checking whether the number 10 is even or odd.
+
+# Exercise 5: Maximum of Two Numbers
+# 1.  Create a function named max_of_two that takes two numbers as parameters and returns the larger of the two.
+# 2.  Demonstrate the usage of this function by finding the maximum of 32 and 78.
+
+# Exercise 6: Vowel Checker
+# 1.  Create a function named is_vowel that takes a character (a single letter) as a parameter and returns True if it's a vowel (a, e, i, o, u - both uppercase and lowercase), otherwise False.
+# 2.  Demonstrate the usage of this function by checking whether the characters 'a', 'b', 'E', and 'Z' are vowels.
+
+# Exercise 7: Factorial of a Number
+# 1.  Create a function named factorial that takes a positive integer as a parameter and returns its factorial. The factorial of a non-negative integer n is the product of all positive integers less than or equal to n.
+# 2.  Demonstrate the usage of this function by calculating the factorial of 5.
+
+# Exercise 8: Palindrome Checker
+# 1.  Create a function named is_palindrome that takes a string as a parameter and returns True if it's a palindrome, otherwise False. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
+# 2.  Demonstrate the usage of this function by checking whether the strings "radar" and "Python" are palindromes.
+
+# Exercise 9: Multiples Sum
+# 1.  Create a function named sum_multiples that takes an integer n as a parameter and returns the sum of all multiples of 3 and 5 that are less than n.
+# 2.  Demonstrate the usage of this function by calculating the sum of multiples of 3 and 5 less than 100.
+
+# Exercise 10: Print a Triangle
+# 1.  Create a function named print_triangle that takes a positive integer n as a parameter and prints a right-angled triangle using asterisks (*) with n rows.
+# 2.  Demonstrate the usage of this function by printing a triangle with 5 rows.
+
